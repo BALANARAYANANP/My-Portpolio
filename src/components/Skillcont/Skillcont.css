@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100..900&display=swap');
+
+.Skillcont{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 120px 0;
+}
+.skillconttext{
+    color: white;
+    flex: 0.6;
+    text-align: left;
+    max-width: 500px;
+    margin-bottom: 20px;
+
+}
+.skillconttext h2{
+    font-size: 25px;
+    margin-top: 1rem;
+}
+.skillcont__skillset h5{
+     
+    font-family: "Poppins",sans-serif;
+    font-weight: 250px;
+    padding:  18px 10px;
+
+}
+
+.skillcontimg img{
+    flex: 0.4;
+   
+    margin: 100px;
+    width: 500px;
+   object-fit: contain;
+    border-radius: 3px;
+}
+.skillcont__slider  .MuiLinearProgress-colorPrimary {
+    background-color: rgb(88,88,88);
+
+}
+.skillcont__slider1    .MuiLinearProgress-barColorPrimary {
+    background-color: tomato;
+}
+.skillcont__slider2    .MuiLinearProgress-barColorPrimary {
+    background-color: rgb(156,26,3);
+}
+.skillcont__slider3  div  .MuiLinearProgress-barColorPrimary {
+    background-color: rgb(255,145,0);
+}
+.skillcont__slider4 div  .MuiLinearProgress-barColorPrimary {
+    background-color: blue;
+}
+.skillcont__slider5  div  .MuiLinearProgress-barColorPrimary {
+    background-color: yellow;
+}
