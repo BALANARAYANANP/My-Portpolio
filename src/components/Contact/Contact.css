@@ -39,3 +39,11 @@
     color: white;
     font-size: 30px;
 }
+.link{
+    padding: 1rem;
+    font-size: 2rem;
+}
+.link:hover{
+    color: #f64c08;
+    
+}
