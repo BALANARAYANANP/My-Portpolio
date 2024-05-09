@@ -1,7 +1,7 @@
 import React from 'react'
 import { Element } from 'react-scroll'
 import { IconButton } from '@material-ui/core'
-import {LinkedIn, GitHub, Instagram} from '@material-ui/icons'
+import{FaGithub, FaLinkedin, FaInstagram} from "react-icons/fa"
 import './Contact.css'
 
 const Contact = () => {
@@ -18,17 +18,17 @@ const Contact = () => {
             <div className="contact_icons">
                 <a href='https://www.linkedin.com/in/balanarayanan-p-45513626b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>
                     <IconButton>
-                        <LinkedIn/>
+                        <FaLinkedin/>
                     </IconButton>
                 </a>
                 <a href='https://github.com/BALANARAYANANP'>
                     <IconButton>
-                        <GitHub/>
+                        <FaGithub/>
                     </IconButton>
                 </a>
                 <a href='https://www.instagram.com/balanarayanan_perumal?igsh=eG1qOHhha3Q5b3M0'>
                     <IconButton>
-                        <Instagram/>
+                        <FaInstagram/>
                     </IconButton>
                 </a>
             </div>

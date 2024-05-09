@@ -35,7 +35,7 @@
     color: #f64c08;
 }
 
-.contact_icons a button span  .MuiSvgIcon-root{
+.contact_icons a button{
     color: white;
     font-size: 30px;
 }
