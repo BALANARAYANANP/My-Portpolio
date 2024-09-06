@@ -8,8 +8,8 @@ const Topcontent = () => {
         <div className='Topcontent1'>
             <h1>Mr. BALANARAYANAN PERUMAL</h1>
             <p>Professional React.js Developer</p>
-            <a href='https://drive.google.com/file/d/1fLA3SwWEfCTY-f-xegSJVKKtnnzVO7dX/view?usp=drivesdk'>
-                <button className='btn1'>Download CVs</button>
+            <a href='https://drive.google.com/file/d/1NeroHlkvlymM3Nd218cwArR7vHRlI-bg/view?usp=drivesdk'>
+                <button className='btn1' style={{fontWeight:"bold"}}>Download CVs</button>
             </a>
             
 

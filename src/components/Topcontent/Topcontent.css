@@ -14,11 +14,11 @@
 }
 
 .Topcontent2{
-    width: 13rem;
+    width: 14rem;
     aspect-ratio: 1;
     background-color: white;
     border-radius: 50%;
-    background-image: url("../../assests/pic.jpeg");
+    background-image: url("../../assests/mp.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
